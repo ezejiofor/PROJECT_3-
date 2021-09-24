@@ -14,7 +14,7 @@
 To deploy a simple To-Do application that creates To-Do lists
 
 **Install Node.js with the command:**
-sudo apt-get install -y nodejs
+"sudo apt-get install -y nodejs"
 
 ## Application Code Setup 
 **Create a new directory for your To-Do project:** : mkdir Todo
@@ -23,4 +23,20 @@ Run **"npm init"** to initialise your project.
 
 Run the command **"ls"** to confirm that you have package.json file created.
 
-Next, Install **ExpressJs** and create the Routes directory.
+Next, Install **ExpressJs** and create the Routes directorY: **npm install express**
+
+Now create a file *index.js* with the command below: **touch index.js**
+
+Install the dotenv module:  **npm install dotenv**
+
+we need to create *routes* that will define various endpoints that the To-do app will depend on. create a folder **routes** : mkdir routes
+
+create create a file **api.js**  in *routes* folder
+
+install mongoose which is a Node.js package that makes working with mongodb easier: **npm install mongoose**
+
+Create a new folder *models* : **mkdir models** and create a file and name it **todo.js**
+
+
+
+
