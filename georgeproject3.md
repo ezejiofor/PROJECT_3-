@@ -13,5 +13,14 @@
 ## Task
 To deploy a simple To-Do application that creates To-Do lists
 
-**Install Node.js with the command below**
+**Install Node.js with the command:**
 sudo apt-get install -y nodejs
+
+## Application Code Setup 
+**Create a new directory for your To-Do project:** : mkdir Todo
+
+Run **"npm init"** to initialise your project.
+
+Run the command **"ls"** to confirm that you have package.json file created.
+
+Next, Install **ExpressJs** and create the Routes directory.
