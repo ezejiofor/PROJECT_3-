@@ -18,6 +18,8 @@ To deploy a simple To-Do application that creates To-Do lists
 **Install Node.js with the command:**
 "sudo apt-get install -y nodejs"
 
+<img width="680" alt="NODE JS INSTALLED" src="https://user-images.githubusercontent.com/89888370/136368539-456c6f16-46ac-4719-9222-8c24260716f3.PNG">
+
 ## Application Code Setup 
 **Create a new directory for your To-Do project:** : mkdir Todo
 
@@ -38,6 +40,11 @@ create create a file **api.js**  in *routes* folder
 install mongoose which is a Node.js package that makes working with mongodb easier: **npm install mongoose**
 
 Create a new folder *models* : **mkdir models** and create a file and name it **todo.js**
+
+<img width="455" alt="SERVER RUNNING ON PORT 5000" src="https://user-images.githubusercontent.com/89888370/136369577-d73d2952-fe2f-459a-afac-ad8be2c20a18.PNG">
+
+<img width="956" alt="EXPRESS WORKING ON BROWSER" src="https://user-images.githubusercontent.com/89888370/136369795-657191da-a809-4481-837f-37d7f2f0bbb7.PNG">
+
 
 
 
