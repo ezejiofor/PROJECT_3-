@@ -1,5 +1,7 @@
 # SIMPLE TO-DO APPLICATION ON MERN WEB STACK
 
+<img width="538" alt="1MERN STACK DIAGRAM" src="https://user-images.githubusercontent.com/89888370/136368195-46d50228-74be-4b77-9362-830b94270c7f.PNG">
+
 ### MERN Web stack consists of following components:
 
 **MongoDB:** A document-based, No-SQL database used to store application data in a form of documents.
