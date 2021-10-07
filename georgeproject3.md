@@ -47,7 +47,7 @@ Create a new folder *models* : **mkdir models** and create a file and name it **
 
 <img width="956" alt="EXPRESS WORKING ON BROWSER" src="https://user-images.githubusercontent.com/89888370/136369795-657191da-a809-4481-837f-37d7f2f0bbb7.PNG">
 
-
+Change directory back Todo folder with cd .. and install Mongoose :  **npm install mongoose **
 
 
 
