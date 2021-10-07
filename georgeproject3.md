@@ -48,6 +48,23 @@ Create a new folder *models* : **mkdir models** and create a file and name it **
 <img width="956" alt="EXPRESS WORKING ON BROWSER" src="https://user-images.githubusercontent.com/89888370/136369795-657191da-a809-4481-837f-37d7f2f0bbb7.PNG">
 
 Change directory back Todo folder with cd .. and install Mongoose :  **npm install mongoose **
+Create a new folder models : mkdir models
+Inside the models folder, create a file and name it todo.js: touch todo.js
 
+**Testing Database with postman.**
+
+<img width="952" alt="Database testing with postman" src="https://user-images.githubusercontent.com/89888370/136374722-067730e2-3907-4fc7-9ec4-3e40e8f7b88f.PNG">
+
+**Database returns data to the browser**
+
+<img width="945" alt="Database returns data to browser" src="https://user-images.githubusercontent.com/89888370/136374702-0eeddeba-b3f3-46d1-940d-c26678608192.PNG">
+
+**Database connected successfully**
+
+<img width="956" alt="Database connected successfully" src="https://user-images.githubusercontent.com/89888370/136374731-ce667a2b-43ed-453f-9b4b-6bfe59c4aec6.PNG">
+
+**Database connected on browser**
+
+<img width="959" alt="Database connected on browser" src="https://user-images.githubusercontent.com/89888370/136374724-236e2144-b466-4d6f-860b-156996291f51.PNG">
 
 
