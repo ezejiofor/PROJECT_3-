@@ -67,4 +67,12 @@ Inside the models folder, create a file and name it todo.js: touch todo.js
 
 <img width="959" alt="Database connected on browser" src="https://user-images.githubusercontent.com/89888370/136374724-236e2144-b466-4d6f-860b-156996291f51.PNG">
 
+**FRONTEND CREATION**
+
+npx create-react-app client
+
+**React is working **
+
+<img width="959" alt="react app working on port 3000" src="https://user-images.githubusercontent.com/89888370/136383469-1de5a65c-04cc-467a-bfd7-ebb8f327543e.PNG">
+
 
