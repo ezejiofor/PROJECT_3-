@@ -43,7 +43,7 @@ Create a new folder *models* : **mkdir models** and create a file and name it **
 
 <img width="455" alt="SERVER RUNNING ON PORT 5000" src="https://user-images.githubusercontent.com/89888370/136369577-d73d2952-fe2f-459a-afac-ad8be2c20a18.PNG">
 
-**Express working on brower on port 5000
+**Express working on brower on port 5000**
 
 <img width="956" alt="EXPRESS WORKING ON BROWSER" src="https://user-images.githubusercontent.com/89888370/136369795-657191da-a809-4481-837f-37d7f2f0bbb7.PNG">
 
